@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<head>
+ <title>En efecto</title>
+</head>
+<body>
+ <h1>Funcionado ✅</h1>
+</body>
+<html>
+
 <?php
 
 $botToken = "5140498675:AAFfWD3P0eGds5WrVlter9Nw4Eng-aabVoc"; // Enter ur bot token
